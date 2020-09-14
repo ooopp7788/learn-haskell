@@ -1,0 +1,3 @@
+-- haskell 中的 return
+-- :t return
+-- return :: Monad m => a -> m a
